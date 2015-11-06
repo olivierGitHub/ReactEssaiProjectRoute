@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ReactEssaiProjectRoute:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReactEssaiProjectRoute_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ReactEssaiProjectRoute/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ReactEssaiProjectRoute" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
